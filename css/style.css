@@ -1,0 +1,88 @@
+.headerlogo{
+    margin-left: 130px;
+}
+.headersection{
+    display: flex;
+}
+.headernavlist{
+    display: flex;
+    padding: 38px 531px;
+    font-size: 20px;
+    color: #2414DB;
+}
+.targetred{
+    color: #F50808;
+}
+.centrnavfordistance{
+    margin: 0px 121px 0px 121px;
+}
+.firstarticleheader{
+    font-size: 36px;
+    color: #17326E;
+}
+.firstarticletext{
+    font-size: 20px;
+    color: #090346;
+    margin: 24px 0px 0px 0px;
+}
+.mainarticle{
+    margin: 120px 0px 0px 130px;
+}
+.sectionforfoto{
+    width: 1440px;
+    height: 439px;
+    background-color: #EBEBF0;
+    margin-top: 120px;
+}
+.sectionforarticle{
+    width: 1440px;
+    height: 516px;
+    background-color: #EBEBF0;
+    margin-top: 120px;
+}
+.divfoto{
+    padding: 121px 0px 121px 130px;
+}
+.centrfoto{
+    margin: 0px 20px 0px 20px;
+}
+.divforbackgroundfooter{
+    display: flex;
+    width: 1440px;
+    height: 161px;
+    background-color: #19126B;
+}
+.forsnlogo{
+    display: flex;
+    padding: 50px 0px 51px 130px;
+}
+.snlogodistance{
+    margin:0px 20px 0px 20px;
+}
+.pagefootertext{
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 71px 0px 0px 678px;
+}
+.page2ourhistory{
+    font-size: 36px;
+    color: #19126B;
+}
+.secondarticletext{
+    font-size: 20px;
+    color: #090346;
+    margin-top: 24px;
+
+}
+.articletwofoto{
+    width: 566px;
+    height: 371px;
+    padding-top: 73px;
+    padding-left: 95px;
+}
+.fordisplay{
+    display: flex;
+}
+.article2page2{
+    padding: 73px 0px 0px 130px;
+}
